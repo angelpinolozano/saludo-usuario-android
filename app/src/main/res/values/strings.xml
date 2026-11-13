@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aplicación de saludo</string>
+    <string name="titulo">Aplicación de saludo</string>
+    <string name="hint_nombre">Introduce tu nombre</string>
+    <string name="saludar">Saludar</string>
+    <string name="saludo">Hola %1$s</string>
+    <string name="error_nombre">Escribe tu nombre primero</string>
+    <string name="introduce_tu_nombre">Introduce tu nombre</string>
+</resources>
